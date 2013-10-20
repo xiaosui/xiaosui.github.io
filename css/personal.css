@@ -1,0 +1,153 @@
+
+html, body, div {
+margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+}
+
+header{
+    border-radius: 6%;
+    color: #fff;
+    width: 800px;
+    height: 80px;
+    background-color: #000;
+    float: left;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 270px;
+    margin-bottom: 20px;
+}
+
+nav {
+	width: 80px;
+	float: left;
+	font-family: "hancock";
+}
+nav a:link, a:visited {
+	border-radius: 10%;
+  	width: 80px;
+  	height: 65px; 
+  	display:block;
+  	background-color: #000;
+  	color: #fff;
+  	text-align: center;
+  	margin-bottom: 55px;
+  	margin-left:100px;
+  	line-height: 70px;
+  	font-family: gillsansmt;
+}
+nav a:hover {
+         color: #000;
+         background-color: #elelel;
+}
+nav a: active {
+         color: #000;
+}
+
+
+article{
+    margin: 20px auto;
+    position: relative;
+    
+}
+    
+article{
+    position:absolute;
+    top: 20px;
+    left: 10px;
+    right: 10px;
+    bottom: 10px;
+}
+
+    
+aside {
+    font-size: 15px;
+    float: left:
+    width: 50%;
+    margin-left: 260px;
+    margin-top: 100px;
+    margin-right: 35px;
+    margin-bottom: 50px;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: purple;
+}
+    
+/*-------------------about me paragraph---------------*/
+.aboutme {
+        float: left;
+        font-family: sans-serif;
+        font-size: 15px;
+        margin-right: 450px;
+        margin-left: 280px;
+        margin-top: 200px;
+}
+        
+/*-------------------about me image-------------------*/
+.me {
+   float: right;
+    margin-right: 70px;
+   
+ }
+
+
+/*------------------portfolio image--------------------*/
+.photography {
+    float: right;
+    margin-right: 130px;
+    margin-top: 50px;
+}
+
+.writing {
+    margin-left: 300px;
+    margin-top: 180px;
+    
+}
+/*-------------------contact image--------------------*/
+.selfportrait {
+    float: right;
+    margin-right: 125px;
+    margin-top: 130px;
+ }
+    
+/*------------------photos---------------------------*/
+.column1 {
+    float:left;
+    margin-left:270px;
+    margin-top: 80px;
+}
+    
+.column2 {
+    float:inherit;
+    margin-left: 550px;
+    margin-top: 120px;
+}
+
+.column3 {
+    float: right;
+    margin-right:100px;
+    margin-top: 5px;
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
