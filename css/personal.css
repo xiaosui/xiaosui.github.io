@@ -124,15 +124,15 @@ a:link {
 /*------------------portfolio image--------------------*/
 .writing {
     float: left;
-    width: 430px;
-    margin-left: 6%;
+    width: 470px;
+    margin-left: 3%;
     margin-top: 2%;
     background-color: #e1e1e1;
     padding-left: 25px;
     padding-right: 20px;
     padding-bottom: 20px;
     font-family: "Arial";
-    font-size: 15px;
+    font-size: 12px;
 }
 
 .photography {
