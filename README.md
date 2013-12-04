@@ -1,4 +1,4 @@
-XIAOSUI.github.io
+xiaosui.github.io
 =================
 
 This repository is my personal website.
